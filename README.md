@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Anmol Kumar</h2>
-<h3 align="left">An enthusiastic data science learner from India</h3>
+<h3 align="left">I'm exploring the data science world, especially NLP and LLMs</h3>
 
 - Ask me about **Problem Solving, Statistics, ML and NLP**
 
