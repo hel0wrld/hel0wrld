@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anmolkr23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-kumar-624709127" height="30" width="40" /></a>
 <a href="https://kaggle.com/butterfly232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="butterfly232" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/butterfly232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="butterfly232" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hedo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/butterfly232" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="butterfly232" height="30" width="40" /></a>
 </p>
 
